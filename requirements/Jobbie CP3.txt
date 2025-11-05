@@ -1,0 +1,164 @@
+﻿1. Thông tin sản phẩm (Product Information)
+1.1. Bản chất sản phẩm: 
+Jobbie là một nền tảng trực tuyến cung cấp giải pháp hướng nghiệp toàn diện, giúp học sinh và sinh viên hiểu rõ bản thân, khám phá ngành nghề phù hợp và định hướng phát triển tương lai. 
+Trong giai đoạn đầu, Jobbie tập trung vào việc triển khai hệ thống bài test đánh giá hướng nghiệp thông minh, làm nền tảng dữ liệu cho các tính năng mở rộng sau này như mô phỏng nghề nghiệp, báo cáo năng lực, và kết nối cố vấn nghề nghiệp.
+
+
+1.2. Tính năng chính của giai đoạn 1 (Phiên bản nền tảng):
+Bài Test Hướng Nghiệp Thông Minh (Jobbie Career Test) gồm chuỗi bài test đơn giản về tính cách, năng lực và sở thích nghề nghiệp (ứng dụng lý thuyết Holland, MBTI, và OCEAN được rút gọn cho học sinh Việt Nam).
+Sau khi hoàn thành, hệ thống sẽ:
+* Phân tích nhóm tính cách và xu hướng nghề nghiệp nổi bật.
+* Gợi ý Top 3 ngành nghề phù hợp nhất.
+* Đưa ra bản tóm tắt điểm mạnh - điểm yếu - kỹ năng cần phát triển.
+* Cung cấp đề xuất định hướng học tập và nghề nghiệp tương ứng.
+1.3. Định hướng phát triển giai đoạn sau: Khi hệ thống bài test và cơ sở dữ liệu người dùng đã ổn định, Jobbie sẽ phát triển thêm các mô-đun:
+* Job Simulator: Trải nghiệm thử các nghề qua mini game mô phỏng.
+* Career Report Pro: Báo cáo phân tích chuyên sâu về hành vi và kỹ năng.
+* Learning Path: Lộ trình học tập và phát triển kỹ năng được cá nhân hóa.
+* Mentor Connect: Kết nối người dùng với chuyên gia, mentor hoặc doanh nghiệp thực tế.
+* Jobbie AI Coach: Trợ lý ảo hướng nghiệp thông minh, đồng hành cùng người dùng trong quá trình phát triển sự nghiệp.
+2. Value Proposition (Giá trị cốt lõi) - “Jobbie - Giải pháp hướng nghiệp toàn diện” 
+Jobbie mang đến giải pháp hướng nghiệp toàn diện giúp học sinh, sinh viên hiểu rõ bản thân khám phá nghề phù hợp xây dựng lộ trình phát triển tương lai. Không chỉ dừng lại ở việc trả kết quả bài test, Jobbie định vị mình như một người đồng hành thông minh trong hành trình ra quyết định nghề nghiệp của thế hệ trẻ.
+
+
+(MỞ RỘNG) Giá trị khác biệt (Unique Value Proposition)
+Tiêu chí
+	Giá trị khác biệt của Jobbie
+	Tính cá nhân hóa cao
+	Hệ thống đề xuất nghề, kỹ năng và lộ trình riêng cho từng người dùng.
+	Đơn giản - Gần gũi - Dễ tiếp cận
+	Thiết kế bài test thân thiện, phù hợp học sinh Việt Nam, dễ hiểu và dễ thao tác.
+	Định hướng lâu dài
+	Không chỉ dừng ở “chọn nghề”, mà còn đồng hành phát triển kỹ năng và tư duy nghề nghiệp.
+	Kết nối hệ sinh thái
+	Hướng đến liên kết mentor, doanh nghiệp và nền tảng học tập để tạo cầu nối thực tế.
+	Ứng dụng công nghệ thông minh
+	Dựa trên dữ liệu và phân tích hành vi để đưa ra gợi ý chính xác, khách quan.
+	
+
+3. Cách thu tiền của khách hàng (Monetization & Payment Flow) 
+Jobbie áp dụng mô hình Freemium kết hợp Hybrid B2C - B2B, trong đó người dùng cá nhân có thể trải nghiệm miễn phí cơ bản, sau đó mở khóa thêm các tính năng chuyên sâu hoặc dịch vụ cao cấp thông qua hình thức trả phí linh hoạt.
+Bên cạnh đó, Jobbie có thể hợp tác với trường học, trung tâm hướng nghiệp và doanh nghiệp tuyển dụng để mở rộng nguồn doanh thu tổ chức.
+
+
+Giai đoạn
+	Chiến lược
+	Mục tiêu
+	Thâm nhập 
+(3 tháng đầu)
+	Cung cấp toàn bộ test miễn phí, chỉ thu phí cho báo cáo chuyên sâu.
+	Tăng trưởng người dùng, xây dựng niềm tin và data.
+	Mở rộng 
+(3–6 tháng)
+	Ra mắt gói Premium rẻ (29.000- 49.000đ/lượt), giới thiệu tính năng mini game nghề nghiệp.
+	Thử nghiệm tỷ lệ chuyển đổi trả phí, định hình thói quen thanh toán.
+	Phát triển 
+hệ sinh thái
+	Mở rộng Mentor Connect, Career Path và AI Coach, gói học tập kết hợp khóa học đối tác.
+	Tăng doanh thu định kỳ, hình thành mô hình Jobbie Ecosystem.
+	Phương thức thanh toán:
+* Thanh toán trực tuyến qua VNPay, MoMo, ZaloPay, hoặc thẻ ngân hàng.
+* Gói thanh toán linh hoạt:
+Theo lượt (mua từng bài test nâng cao hoặc báo cáo chuyên sâu).
+Theo gói thời gian: tháng/quý/năm (sử dụng không giới hạn các tính năng premium).
+Theo gói combo: kết hợp test + mentor session + report chi tiết.
+4. 9 Business Model (Đọc thêm ở đây )
+Mô hình kinh doanh Business Model Canvas (BMC) bao gồm 9 yếu tố chính, mỗi yếu tố này đóng vai trò quan trọng trong việc xây dựng và duy trì một mô hình kinh doanh hiệu quả. Những yếu tố này cùng nhau tạo nên cấu trúc và chiến lược hoạt động của một doanh nghiệp. Các yếu tố chính trong mô hình kinh doanh bao gồm:
+MÔ HÌNH KINH DOANH JOBBIE (BUSINESS MODEL CANVAS)
+Thành phần
+	Nội dung chi tiết
+	Key Partners
+	- Trường học, trung tâm giáo dục
+- Chuyên gia & mentor nghề nghiệp
+- Đối tác công nghệ và thanh toán (MoMo, VNPay,...)
+- Doanh nghiệp tuyển dụng & đào tạo
+- Đối tác truyền thông & marketing
+	Key Activities
+	- Phát triển và duy trì hệ thống bài test hướng nghiệp
+- Phân tích dữ liệu người dùng để cá nhân hóa kết quả
+- Xây dựng cơ sở dữ liệu nghề nghiệp và kỹ năng tương lai
+- Phát triển các mô-đun: Job Simulator, Mentor Connect, AI Career Coach
+- Tổ chức chiến dịch truyền thông, workshop & hợp tác trường học
+	Key Resources
+	- Nhân sự có năng lực về công nghệ, thiết kế trải nghiệm người dùng, truyền thông, tổ chức sự kiện và tư duy sản phẩm.
+- Mentor chuyên môn: Cố vấn trong lĩnh vực tuyển dụng và nhân sự, hỗ trợ xây dựng nội dung bài test, định hướng nghiệp vụ và tính thực tế của sản phẩm.
+- Mối quan hệ trong ngành giáo dục: Giúp nhóm tiếp cận thông tin nghề thực tế, đồng thời có thể kết nối thử nghiệm sản phẩm với học sinh, sinh viên hoặc trường học.
+- Nền tảng test prototype: Được xây dựng bằng các công cụ sẵn có (Figma, Google Form, Firebase hoặc nền tảng no-code) để kiểm thử ý tưởng.
+- Cộng đồng học sinh - sinh viên và mạng xã hội: là nhóm người dùng đầu tiên, dễ tiếp cận qua TikTok, Facebook, và các hội nhóm định hướng nghề.
+	Value Proposition
+	Giải pháp hướng nghiệp toàn diện. Trải nghiệm miễn phí, báo cáo chuyên sâu cá nhân hóa. Mô phỏng nghề & kết nối mentor thực tế kết hợp AI Career Coach đồng hành phát triển lâu dài.
+	Customer Relationships
+	- Trải nghiệm Freemium (miễn phí → trả phí)
+- Cá nhân hóa kết quả & lộ trình nghề nghiệp
+- Hỗ trợ tư vấn trực tuyến & chatbot
+- Cộng đồng Jobbie để chia sẻ và học hỏi hướng nghiệp trên các nền tảng như Facebook, Discord, hoặc TikTok.
+	Channels
+	- Website & ứng dụng di động
+- Mạng xã hội: TikTok, Facebook
+- Hợp tác với trường học & trung tâm đào tạo
+- Email, chatbot & workshop / talkshow hướng nghiệp
+	Customer Segments
+	- Học sinh THPT 
+- Sinh viên năm 1-2
+	Cost Structure
+	Chi phí cố định (Fixed Costs)
+- Chi phí phát triển & vận hành nền tảng (server, AI, UX/UI)
+- Chi phí bản quyền phần mềm: Công cụ thiết kế (Figma, Canva Pro), phần mềm làm báo cáo, quản lý teamwork (Notion, Trello).
+Chi phí biến đổi (Variable Costs)
+- Chi phí truyền thông và quảng cáo: Chạy quảng cáo mạng xã hội, influencer/KOLs, video giới thiệu sản phẩm.
+- Chi phí chăm sóc khách hàng
+- Chi phí in ấn / tổ chức sự kiện offline
+Chi phí phát sinh (Operating Costs)
+- Chi phí nghiên cứu & phát triển (R&D)
+- Chi phí mentor & chuyên gia
+Chi phí đầu tư (Capital Expenditure)
+- Chi phí cơ sở dữ liệu nghề nghiệp (Career Database)
+- Chi phí thiết kế nhận diện thương hiệu: Logo, guideline, giao diện website/app chuyên nghiệp.
+- Chi phí thiết bị hỗ trợ sản xuất nội dung: Máy quay, micro, phần mềm chỉnh sửa để tạo nội dung truyền thông.
+Chi phí hợp tác (Partnership Costs)
+- Chi phí hợp tác trường học / trung tâm giáo dục
+- Chi phí truyền thông liên kết
+- Chi phí chia sẻ doanh thu (Nếu liên kết với nền tảng học tập, mentor hoặc doanh nghiệp tuyển dụng)
+	Revenue Streams
+	- Freemium: Gói Premium Report, bài test nâng cao
+- Subscription: Thành viên tháng/quý/năm
+- Mentor Session Fee: Kết nối chuyên gia 1:1
+- B2B Education Package: Gói cho trường học
+- Corporate Assessment: Dịch vụ đánh giá nghề nghiệp
+- Advertising & Partnership: Hợp tác truyền thông & khóa học liên quan
+	
+
+
+
+5. Chiến lược định giá (Pricing Strategy)  
+Chiến lược định giá của Jobbie được xây dựng dựa trên nguyên tắc: Tiếp cận dễ dàng - tạo giá trị thật - mở rộng theo nhu cầu. Mục tiêu là giúp học sinh, sinh viên có thể trải nghiệm miễn phí ban đầu, từ đó hiểu rõ giá trị sản phẩm và tự nguyện nâng cấp trả phí để nhận thêm tính năng chuyên sâu, phù hợp với hành vi chi tiêu của người trẻ Việt Nam.
+
+
+5.1. Mô hình định giá chính: Freemium + Value-based Pricing
+
+
+Giai đoạn
+	Mô tả chiến lược
+	Mục tiêu
+	Thâm nhập 
+thị trường
+	Cung cấp toàn bộ bài test cơ bản miễn phí, thu phí nhẹ (29.000 - 49.000đ/lượt) cho báo cáo phân tích chuyên sâu hoặc tính năng nâng cao.
+	Tăng lượng người dùng, thu thập dữ liệu, xây dựng niềm tin và thói quen sử dụng.
+	Mở rộng 
+sản phẩm
+	Ra mắt các gói Premium theo thời gian (tháng/quý/năm) với quyền truy cập không giới hạn test, mô phỏng nghề, AI Coach và mentor.
+	Tăng doanh thu định kỳ, tạo giá trị gia tăng qua trải nghiệm dài hạn.
+	Hệ sinh thái hướng nghiệp toàn diện
+	Triển khai gói định giá theo cấp độ (Tiered Pricing): Basic - Pro - Mentor+, hoặc gói Combo cho trường học, doanh nghiệp (B2B).
+	Mở rộng phân khúc khách hàng, đa dạng hóa dòng doanh thu.
+	5.2. Chiến lược khuyến mãi và tạo động lực trả phí
+   * Tặng gói Premium miễn phí cho người dùng mới hoặc nhóm học sinh thử nghiệm đầu tiên.
+   * Chiết khấu cho học sinh trường hợp tác hoặc mua theo nhóm/lớp.
+   * Ưu đãi theo sự kiện hướng nghiệp, như Tháng Định hướng nghề.
+   * Gamification (tích điểm - đổi quà - mở khóa nghề mới) để khuyến khích nâng cấp gói.
+5.3. Cơ sở hình thành chiến lược
+   * Khả năng chi trả của đối tượng mục tiêu thấp, nên ưu tiên mô hình Freemium vì giá rẻ và dễ thử.
+   * Người dùng Việt Nam có xu hướng trải nghiệm miễn phí trước khi chi tiền.
+   * Giá trị cảm nhận cao (phân tích cá nhân hóa, mentor thật, AI hỗ trợ) giúp dễ chấp nhận nâng cấp gói.
+   * Chi phí vận hành thấp và nền tảng số cho phép mở rộng quy mô mà không cần tăng chi phí tương ứng.
+6. Site Map
